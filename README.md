@@ -2,4 +2,4 @@
 
 # Hi there! 👋
 > + Good at Dart、Flutter、React & Native、Typescript、NodeJS
-> + Primary maintainer of EMP 
+> + Primary Maintainer of EMP 
